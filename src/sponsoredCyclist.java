@@ -73,7 +73,7 @@ public class sponsoredCyclist {
              moneyOwed = (distance2 * 7) + 100;
          }
 
-         JOptionPane.showMessageDialog(null,"First Name: " +
+         JOptionPane.showMessageDialog(null,"First Name: " + firstName +
                  "\nInitial: " + initial + "\nLast Name: " + lastName + "\nDistance: " + distance +
                  "\nMoney Owed: " + moneyOwed + " cent");
     }
